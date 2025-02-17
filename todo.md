@@ -1,0 +1,3 @@
+- write HELLO WORLD using only HTML
+- write HELLO WORLD using JAVASCRIPT
+- integrate REACT cdn in the project - create a root - create element - render element in root
